@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "createindustry:item/liquid_rebar_concrete_bucket"
+  }
+}

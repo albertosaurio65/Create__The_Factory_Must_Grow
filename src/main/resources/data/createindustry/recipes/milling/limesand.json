@@ -1,0 +1,16 @@
+
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "create:limestone"
+    }
+  ],
+  "results": [
+    {
+      "item": "createindustry:limesand"
+
+    }
+  ],
+  "processingTime": 130
+}

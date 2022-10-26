@@ -1,0 +1,25 @@
+{
+  "item.createindustry.liquid_concrete_bucket": "Liquid Concrete Bucket",
+  "item.createindustry.liquid_rebar_concrete_bucket": "Liquid Rebar Concrete Bucket",
+  "item.createindustry.rebar": "Rebar",
+  "item.createindustry.steel_ingot": "Steel Ingot",
+  "item.createindustry.coal_coke": "Coal Coke",
+  "item.createindustry.quad_potato_cannon": "Quad Potato Cannon",
+
+
+  "block.createindustry.concrete": "Concrete",
+  "block.createindustry.rebar_concrete": "Rebar Concrete",
+  "block.createindustry.liquid_concrete": "Liquid Concrete",
+  "block.createindustry.liquid_rebar_concrete": "Liquid Rebar Concrete",
+  "block.createindustry.limesand": "Limesand",
+  "block.createindustry.cement": "Cement",
+  "block.createindustry.steel_block": "Block of Steel",
+
+
+  "fluid.createindustry.liquid_concrete_fluid": "Liquid Concrete",
+
+  "tooltip.createindustry.block.concrete": "§ePlace in-game and wait for it to dry",
+
+
+  "itemGroup.createindustry": "Create: Industry"
+}

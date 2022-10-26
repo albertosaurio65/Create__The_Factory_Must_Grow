@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "createindustry:liquid_concrete",
+    "createindustry:liquid_rebar_concrete",
+    "createindustry:limesand",
+    "createindustry:cement"
+  ]
+}

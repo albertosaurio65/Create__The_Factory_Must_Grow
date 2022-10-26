@@ -1,0 +1,6 @@
+{
+  "parent": "createindustry:block/rebar_cage_model",
+  "textures": {
+    "texture": "createindustry:block/rebar_cage"
+  }
+}

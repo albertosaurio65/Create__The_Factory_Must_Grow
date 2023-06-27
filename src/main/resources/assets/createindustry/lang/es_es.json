@@ -1,0 +1,25 @@
+{
+  "item.createindustry.liquid_concrete_bucket": "Cubo de hormigón líquido",
+  "item.createindustry.liquid_rebar_concrete_bucket": "Cubo de hormigón armado líquido",
+  "item.createindustry.rebar": "Barras de refuerzo",
+  "item.createindustry.steel_ingot": "Lingote de acero",
+  "item.createindustry.coal_coke": "Coque de carbón",
+  "item.createindustry.quad_potato_cannon": "Cañón cuádruple de patatas",
+
+
+  "block.createindustry.concrete": "Hormigón",
+  "block.createindustry.rebar_concrete": "Hormigón armado",
+  "block.createindustry.liquid_concrete": "Hormigón líquido",
+  "block.createindustry.liquid_rebar_concrete": "Hormigón armado líquido",
+  "block.createindustry.limesand": "Limesand",
+  "block.createindustry.cement": "Cemento",
+  "block.createindustry.steel_block": "Bloque de acero",
+
+
+  "fluid.createindustry.liquid_concrete_fluid": "Hormigón líquido",
+
+  "tooltip.createindustry.block.concrete": "§ePlace in-game and wait for it to dry",
+
+
+  "itemGroup.createindustry": "Create: Industry"
+}
